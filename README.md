@@ -1,1 +1,1 @@
-# Image-Segmantation-PSO-
+# Image-Segmantation with PSO
